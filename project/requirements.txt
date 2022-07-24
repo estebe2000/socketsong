@@ -15,7 +15,6 @@ pycairo==1.21.0
 pygame==2.1.2
 Pygments==2.7.1
 PyGObject==3.42.2
-python-apt==2.2.1
 PyYAML==5.3.1
 requests==2.25.1
 RPi.GPIO==0.7.0
